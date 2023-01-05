@@ -74,7 +74,7 @@
     "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-M577CZW\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n\n\n<a href=\"https://contacto.guru/Jh1\"\n    class=\"whatsapp position-fixed\" target=\"_blank \" rel=\"noreferrer\" alt=\"whatsapp\">\n    WhatsApp <i class=\"fab fa-whatsapp whatsapp-icon\"></i></a>\n\n  <a href=\"tel:13475476711\" class=\"telefono position-fixed\" target=\"_blank\" rel=\"noreferrer\" alt=\"telefono\">Llamada <i\n      class=\"fas fa-phone telefono-icon\"></i></a>",
     "chatbutton": {},
     "global_footer_custom": "<!--Start of Tawk.to Script-->\n\t<script type=\"text/javascript\">\n\t\tvar Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();\n\t\t(function () {\n\t\t\tvar s1 = document.createElement(\"script\"), s0 = document.getElementsByTagName(\"script\")[0];\n\t\t\ts1.async = true;\n\t\t\ts1.src = 'https://embed.tawk.to/612d3f71d6e7610a49b2c7e5/1fecbvkn7';\n\t\t\ts1.charset = 'UTF-8';\n\t\t\ts1.setAttribute('crossorigin', '*');\n\t\t\ts0.parentNode.insertBefore(s1, s0);\n\t\t})();\n\t</script>\n<!--End of Tawk.to Script-->\n",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
